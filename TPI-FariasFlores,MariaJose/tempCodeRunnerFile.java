@@ -1,0 +1,1 @@
+       System.out.println("Índice de fragmentación externa final: " + fragmentacionExterna);
